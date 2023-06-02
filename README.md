@@ -7,7 +7,9 @@ As with others who put their work up, I reserve the right to not update this exc
 There are certain elements of the game that I believe are best to play through yourself.  
 I have scripted some of those elements and they may not be available here.  
 Feel free to reach out and ask for them - I may have requirements before I share them.  
-(Like I said, I think some parts are best to go through yourself, at least enough to learn a little bit)  
+(Like I said, I think some parts are best to go through yourself, at least enough to learn a little bit)
+
+Edit ~1 year later: Lol, I never even put in my scripts. I'll start working on that :) Like I said, give me some time to get these going.
 
 # Spoilers be here.
 **You've been warned.**
